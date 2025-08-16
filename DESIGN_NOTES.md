@@ -1,0 +1,2 @@
+**Design Explanation (2–3 sentences):**
+The UI uses a white background with a single blue accent to emphasize primary actions and key statistics, reflecting a clean, professional brand. We chose a simple sans‑serif typeface (Arial/Helvetica) and generous spacing to make information scannable. Consistent header/logo placement and card-based sections ensure clarity and alignment with a modern CRM look.
